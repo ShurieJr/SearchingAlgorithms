@@ -1,3 +1,7 @@
+package ca219;
+
+import ca219.LinearSearching;
+
 public class Main {
     public static void main(String[] args) {
         System.out.println("Linear Searching....");

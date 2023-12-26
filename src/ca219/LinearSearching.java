@@ -1,3 +1,5 @@
+package ca219;
+
 public class LinearSearching <T>  {
     public static <T extends Comparable> boolean linearSearch(T[] data , int minIndex,
                                            int maxIndex , T target){
