@@ -47,6 +47,7 @@ public class searching<T> {
         return found;
     }
 
+    //Binary search - Descending order
     public static <T extends Comparable<T>> boolean binarySearchDesc(T[] data , int min,int max , T target){
         boolean found = false;
         int low = min;
